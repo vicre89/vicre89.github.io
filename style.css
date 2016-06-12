@@ -1,0 +1,107 @@
+*
+{
+	margin: 0px;
+	padding:0px; 
+}
+body
+{
+	background: url(images/Matrix.jpg); repeat center center fixed;
+}
+img
+{
+	float: left;
+	width: 25mm;
+}
+h1, h3
+{
+	padding-top: 3mm;
+	margin-bottom: 5px;
+}
+h2
+{
+	color: white;
+	background-color: blue;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+p
+{
+	padding-bottom: 10px;
+}
+.halaman
+{
+	font-size: 14px;
+	width: 250mm;
+	margin: 20mm auto;
+	padding: 20px;
+	background-color: white;
+	box-shadow: 4px -4px 40px 4px black;
+}
+.kontak
+{
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	border-bottom-color: red;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	padding-bottom: 5px;
+}
+.fa
+{
+	margin-right: 10px;
+	margin-left: 20px;
+}
+.batas
+{
+	padding: 0px 30px 30px 30px;
+}
+.pendidikan
+{
+	margin-bottom: 20px;
+}
+#junior
+{
+	background-color: white;
+	color: black;
+}
+#kerja
+{
+	padding: 0;
+	text-align: left;
+	float: left;
+}
+#tahun
+{
+	float: right;
+}
+#development
+{
+	display: flex;
+}
+#development ul
+{
+	width: 50%;
+	padding: 0px 20px 20px 20px;
+	list-style-type: none;
+}
+#development h3
+{
+	text-align: center;
+}
+#skill
+{
+	display: flex;
+}
+#skill ul
+{
+	width: 33%;
+	padding: 0px 10px 10px 10px;
+	list-style-type: none;
+}
+#skill h3
+{
+	padding: 0px;
+}
